@@ -1,6 +1,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" alt="Gmail">](mailto:guillermo2rodriguez.06@gmail.com)
 
-[![GitHub followers](https://img.shields.io/github/followers/TU-USUARIO?style=for-the-badge&logo=github&logoColor=white&label=&labelColor=181717&color=181717)](https://github.com/GuillermoRR06?tab=followers)
+[![Seguidores](https://img.shields.io/github/followers/GuillermoRR06?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&labelColor=181717&color=2ea44f)](https://github.com/GuillermoRR06?tab=followers) [![Repositorios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGuillermoRR06&query=%24.public_repos&label=Repositorios&logo=github&logoColor=white&labelColor=181717&color=2ea44f&style=for-the-badge)](https://github.com/GuillermoRR06?tab=repositories)
 
 ## 🚀 About Me
 
@@ -9,9 +9,7 @@
 - Second Year Computer Science.
 
 ## 🛠 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#">
 
 <!--
 **GuillermoRR06/GuillermoRR06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
