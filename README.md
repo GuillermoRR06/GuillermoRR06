@@ -1,6 +1,5 @@
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermo2rodriguez.06@gmail.com)
-
-![GitHub followers](https://img.shields.io/github/followers/GuillermoRR06?style=for-the-badge&logo=github)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" alt="Gmail">](mailto:guillermo2rodriguez.06@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/:GuillermoRR06)
 
 ## 🚀 About Me
 
